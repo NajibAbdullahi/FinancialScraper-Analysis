@@ -6,4 +6,6 @@ Several graphs and plots pitting the malaysian currency aganist major currencies
  TO Do
  
  1: Move the scraper and analyzer into different files
+ 2. Do Predication using machine learing algorithms
+ 
 
